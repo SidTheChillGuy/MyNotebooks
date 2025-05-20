@@ -22,3 +22,6 @@ Detection of lungs diseases using the audio samples and recurrent networks
 
 ### [BirdLens](https://github.com/SidTheChillGuy/BirdLens)
 CNN model finetuning along with ensembling. High accuracy
+
+### [Plant Leaf Disease Detection](https://github.com/SidTheChillGuy/PlantLeafDiseaseDetection)
+A CNN model which is trained to detect diseases of plants based on their leaf images.
