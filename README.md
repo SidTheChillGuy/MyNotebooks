@@ -15,7 +15,8 @@ Brain Cancer detection using images. The Functional Model is made up of three pr
 - Faster training time
 - Quick convergence
 - Very high accuracy
-Can still be improved
+Can still be improved to take lesser time or better and lighter models
+[Current Architecture](https://github.com/SidTheChillGuy/MyNotebooks/blob/main/extras/BrainCancerMRI-ModelArchi.pdf)
 
 ### [Lung Disease Detection using audio samples](https://github.com/SidTheChillGuy/MyNotebooks/blob/main/Lung_Diseases_Code_audio.ipynb)
 Detection of lungs diseases using the audio samples and recurrent networks
