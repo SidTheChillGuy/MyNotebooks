@@ -27,3 +27,6 @@ CNN model finetuning along with ensembling. High accuracy
 
 ### [Plant Leaf Disease Detection](https://github.com/SidTheChillGuy/PlantLeafDiseaseDetection)
 A CNN model which is trained to detect diseases of plants based on their leaf images.
+
+### [DocuSummary](https://github.com/SidTheChillGuy/DocuSummary)
+RAG Pipeline for local documents
