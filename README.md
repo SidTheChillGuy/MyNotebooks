@@ -30,3 +30,8 @@ A CNN model which is trained to detect diseases of plants based on their leaf im
 
 ### [DocuSummary](https://github.com/SidTheChillGuy/DocuSummary)
 RAG Pipeline for local documents
+
+### [VLE Binary Azeotropic Modelling for Binary Water Ethanol System](https://github.com/SidTheChillGuy/MyNotebooks/tree/main/VLE_FOSSEE_2025)
+Task submitted for 2025 IITB FOSSEE Internship application for DWSIM Chemical Engineering utility with ANN.
+In this task, I was required to generate or model a Binary Azeotropic system (I chose Water Ethanol), and fit an ANN model to predict the test points.
+These are the files I created and have submitted to the committee.
